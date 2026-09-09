@@ -1,0 +1,7 @@
+{
+  "name": "sensor-hub-gpio-provider",
+  "build": {
+    "libArchive": false
+  },
+  "dependencies": {}
+}
